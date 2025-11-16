@@ -4,8 +4,12 @@
 !.gitignore
 !*.pdf
 !*.tex
+!*.md
 !References.bib
+
 !Figures/
 !Figures/**
 !Sections/
 !Sections/**
+!.vscode/
+!.vscode/**
